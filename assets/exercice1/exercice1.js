@@ -12,7 +12,7 @@ while (age !="")
         age1++
     }
 
-    if (age>=40)
+    if (age>40)
     {
         age3++
     }
